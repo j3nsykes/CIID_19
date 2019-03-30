@@ -21,3 +21,6 @@ Outputs:
 
 #### Afternoon
 Inputs:
+
+### Day Three:
+Runway and self exploration. 
