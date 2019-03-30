@@ -25,5 +25,5 @@ Inputs:
 ### Day Three:
 Runway and self exploration. 
 
-### Dependecies:
-### Acknowledgements and references:
+#### Dependecies:
+#### Acknowledgements and references:
