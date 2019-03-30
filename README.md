@@ -2,11 +2,7 @@
 Creative Machine Learning Workshop for CIID
 
 ### Tutors
-Andreas Refsgaard
-
-and
-
-Jen Sykes
+Andreas Refsgaard and Jen Sykes
 
 ### Day One: 
 Introduction to Creative Machine Learning 
