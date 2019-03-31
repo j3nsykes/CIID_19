@@ -21,7 +21,7 @@ Jen will look at Wekinator and the use of Physical Computing tools with Machine 
 Introduction to Wekinator
 Comparisons between ML5 methods and Wekinator methods. 
 
-###### Outputs:
+##### Outputs:
 Exploring DC motors and servo motor control. 
 
 Task: 
@@ -33,7 +33,7 @@ Task:
 
 #### Afternoon
 
-###### Inputs:
+##### Inputs:
 Exploring capacitive touch, accelerometers and ultrasonic sensors. 
 
 Task: 
