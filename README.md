@@ -8,7 +8,7 @@ Andreas Refsgaard and Jen Sykes
 In order to see the Arduino board's serial port you must have the correct driver installed on your computer first. 
 [See here](https://learn.adafruit.com/adafruit-metro-mini/arduino-ide-usage) and [here](https://www.silabs.com/community/interface/knowledge-base.entry.html/2017/01/10/legacy_os_softwarea-bgvU)
 
-Please also make sure you have [Processing](https://processing.org/download/) downloaded. 
+Please also make sure you have [Processing](https://processing.org/download/) and [Wekinator](http://www.wekinator.org/downloads/) downloaded. 
 
 ### Day One: 
 Introduction to Creative Machine Learning 
