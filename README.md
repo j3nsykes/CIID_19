@@ -36,3 +36,7 @@ In order to see the Arduino serial ports you must have the correct driver instal
 [See here](https://learn.adafruit.com/adafruit-metro-mini/arduino-ide-usage) and [here](https://www.silabs.com/community/interface/knowledge-base.entry.html/2017/01/10/legacy_os_softwarea-bgvU)
 
 #### Acknowledgements and references:
+Rebecca Fiebrink
+Bérenger Recoules
+Gene Kogan 
+Runway
