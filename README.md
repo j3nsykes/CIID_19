@@ -29,7 +29,7 @@ Task:
 * Simple - look at the provided examples we explored earlier and try to train a motor's movement.  
 * Advanced - Adapt an input example and/or add more than one physical component. 
 
-#### Break 
+
 
 #### Afternoon
 
