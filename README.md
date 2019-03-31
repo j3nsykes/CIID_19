@@ -21,29 +21,31 @@ Jen will look at Wekinator and the use of Physical Computing tools with Machine 
 Introduction to Wekinator
 Comparisons between ML5 methods and Wekinator methods. 
 
-**Outputs:**
+###### Outputs:
 Exploring DC motors and servo motor control. 
 
 Task: 
-Simple - look at the provided examples we explored earlier and try to train a motor's movement.  
-Advanced - Adapt an input example and/or add more than one physical component. 
+
+* Simple - look at the provided examples we explored earlier and try to train a motor's movement.  
+* Advanced - Adapt an input example and/or add more than one physical component. 
 
 #### Break 
 
 #### Afternoon
-**Inputs:**
+
+###### Inputs:
 Exploring capacitive touch, accelerometers and ultrasonic sensors. 
 
 Task: 
-Simple - explore the examples provided and train and sensor driven output. 
-Advanced - Try adapt an output example and/or add more than one input (multiple touch inputs?)
+* Simple - explore the examples provided and train and sensor driven output. 
+* Advanced - Try adapt an output example and/or add more than one input (multiple touch inputs?)
 
 ### Day Three:
-Runway and self exploration. 
+Runway and group exploration. 
 
-How to use Runway models.
-The key elements you can control.
-Different workflows for communication with other software. 
+* How to use Runway models.
+* The key elements you can control.
+* Different workflows for communication with other software. 
 
 
 
