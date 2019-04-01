@@ -10,6 +10,13 @@ In order to see the Arduino board's serial port you must have the correct driver
 
 Please also make sure you have [Processing](https://processing.org/download/) and [Wekinator](http://www.wekinator.org/downloads/) downloaded. 
 
+You may need the following Processing libraries for certain examples. Please open Processing and go to Sketch/import library/ Add library and install the  following...
+* Serial
+* Video
+* Open CV
+* oscP5
+* Sound
+
 ### Day One: 
 Introduction to Creative Machine Learning 
 
